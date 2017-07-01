@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="welcome_to_android_developments">Welcome to android developments</string>
+    <string name="title_activity_mostra_alunos">Map</string>
+</resources>
